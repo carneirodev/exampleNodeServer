@@ -3,7 +3,7 @@ const server = express();
 server.use(express.json())
 
 
-const users = ['Backend do WeSports','Primeiro deploy']
+const users = ['Backend do WeSports','Primeiro deploy na AWS','By Carneiro']
 
 
 
